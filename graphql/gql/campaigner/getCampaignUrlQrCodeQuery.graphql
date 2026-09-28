@@ -1,0 +1,13 @@
+query getCampaignUrlQrCode($urlId: ID!) {
+  campaignUrlQrCode(urlId: $urlId) {
+    urlId
+    targetUrl
+    downloadUrl
+    dataUri
+    svg
+    filename
+    format
+    errorCorrectionLevel
+    config
+  }
+}

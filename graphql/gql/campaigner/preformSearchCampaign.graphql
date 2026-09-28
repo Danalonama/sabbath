@@ -1,0 +1,6 @@
+query GetCampaign($name: String!) {
+  searchCampaigns(name: $name) {
+    id
+    name
+  }
+}

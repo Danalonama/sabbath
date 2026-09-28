@@ -1,0 +1,6 @@
+query GetCampaigns {
+  searchCampaigns(name: "") {
+    id
+    name
+  }
+}

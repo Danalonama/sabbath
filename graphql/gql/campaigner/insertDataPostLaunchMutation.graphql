@@ -1,0 +1,14 @@
+mutation insertDataPostLaunchMutation(
+  $campaignId: ID!
+  $channelIds: [ID!]
+  $audiences: [AudienceInput!]
+) {
+  addChannelsAndAudiencesToCampaign(
+    campaignId: $campaignId
+    channelIds: $channelIds
+    audiences: $audiences
+  ) {
+    id
+    url
+  }
+}

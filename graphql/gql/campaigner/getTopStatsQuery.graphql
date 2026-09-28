@@ -1,0 +1,11 @@
+query GetTopStats($limit: Int!, $kpi: KPI, $orderBy: Metric) {
+  topCampaigns(limit: $limit, kpi: $kpi, orderBy: $orderBy) {
+    ...PerformanceGroup
+  }
+  topAudiences(limit: $limit, kpi: $kpi, orderBy: $orderBy) {
+    ...PerformanceGroup
+  }
+  topChannels(limit: $limit, kpi: $kpi, orderBy: $orderBy) {
+    ...PerformanceGroup
+  }
+}

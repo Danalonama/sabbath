@@ -1,0 +1,6 @@
+mutation GenerateUrls($id: ID!) {
+  launchCampaign(id: $id) {
+    id
+    launched
+  }
+}

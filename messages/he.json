@@ -1,0 +1,1163 @@
+{
+  "Index": {
+    "title": "קמפיינים מנצחים בעזרת נתונים.",
+    "description": " תכננו, נהלו ושפרו את הקמפיינים שלכם. שימוש בנתונים אמיתיים כדי להגיע לקהל הנכון, להעביר את המסר הנכון ולפעול בערוצים הנכונים"
+  },
+  "Layout": {
+    "home": "בית",
+    "campaigns": "קמפיינים",
+    "map": "מפה",
+    "user-management": "ניהול",
+    "settings": "ניהול",
+    "login": "התחברו",
+    "logout": "התנתקו"
+  },
+  "Settings": {
+    "title": "Switch Organizations",
+    "organization": {
+      "title": "Organization settings"
+    }
+  },
+  "Generic": {
+    "copy-url": "העתיקו את ה-URL",
+    "upload": {
+      "upload-csv": "העלאת קובץ CSV"
+    }
+  },
+  "Map": {
+    "layer-kinds": {
+      "title": "שכבות מידע",
+      "kalpi": "קלפי",
+      "signage": "שילוט",
+      "door-to-door": "דלת לדלת",
+      "dems-party-members": "מתפקדים"
+    },
+    "layer-legends": {
+      "title": "מקרא",
+      "research": "מקרא מחקר",
+      "signage": "מקרא שילוט"
+    },
+    "layers": {
+      "title": "שכבות מחקר:",
+      "plakat-liberal-support": "בסיס תמיכה",
+      "polygons-B": "פוטנציאל שכנוע",
+      "plakat-turnout": "אחוזי הצבעה",
+      "plakat-liberal": "תובנה גושית",
+      "plakat-example": "פלקט לדוגמה",
+      "research-right-persuasion": "מתנדנדי גושים",
+      "research-right-suppression": "ברי הרגעה",
+      "research-right-suppressed": "ימין רדום",
+      "research-yeshatid-battleground": "Battleground",
+      "research-yeshatid-defense-iron": "רמזור - ירוק",
+      "research-yeshatid-defense-anti-ganz": "רמזור - צהוב",
+      "research-yeshatid-defense-crispy": "רמזור - אדום",
+      "research-yeshatid-defense-urgency": "רמזור - מקסום",
+      "research-new-russians": "עולי פמפקין לאטה",
+      "plakat-yeshatid": "תובנות יש עתיד",
+      "plakat-democrats": "תובנות הדמוקרטים",
+      "research-democrats-lost-votes": "קולות דמוקרטים אבודים",
+      "plakat-voters": "כללי",
+      "research-religious": "מחקר דתיים",
+      "research-anglo-saxons": "מחקר אנגלו-סקסים",
+      "research-russian-centers": "עולי בריה״מ החדשים",
+      "research-tactical-liberals": "ליברלים טקטיים",
+      "research-tikva-kulanu-prexit": "מצביעי תקווה חדשה שהגיעו מכולנו",
+      "research-kulanu-prexit": "מצביעי כחלון",
+      "research-tikva-prexit": "הצבעה לתקווה חדשה",
+      "research-geo-datlash": "עוברים לאזורים חילוניים",
+      "research-geo-datlash-religious": "עוברים לאזורים חילוניים מאזורים דתיים",
+      "research-geo-datlash-traditional": "עוברים לאזורים חילוניים מאזורים מסורתיים",
+      "research-trend-in-liberal-support": "מגמות תמיכה בגוש",
+      "research-gotv-potential": "עידוד הצבעה",
+      "research-gotv-potential-three": "עידוד הצבעה",
+      "research-moderate-religious": "קהילות דתיות מתונות",
+      "research-convincible-sausages": "עולי בריה״מ מתנדנדי גושים",
+      "research-sausages-not-voting": "עידוד הצבעה בקרב עולי ברית המועצות",
+      "research-eisenkot-potential": "פוטנציאל אייזנקוט",
+      "compass-inter-bloc-range": "תווך בין גושי",
+      "compass-inter-bloc-range-shita": "תווך בין גושי - באר שבע",
+      "compass-yashar": "פוטנציאל ישר",
+      "compass-yashar-municipal": "פוטנציאל ישר - עירוני",
+      "compass-bennet": "פוטנציאל ביחד",
+      "research-linear-example": "מפה בסיסית לדוגמה",
+      "research-bivector-example": "מפה ביוקטורית לדוגמה",
+      "research-winter-potential": "מצפן וינטר",
+      "research-plakat-democrates": "בסיס תמיכה דמוקרטים",
+      "research-arab-democrats": "פוטנציאל דמוקרטים דוברי ערבית",
+      "research-arabs-gotv-potential": "עידוד הצבעה בקרב דוברי ערבית",
+      "hebrew-speaking-potential-democrats": "תומכי דמוקרטים",
+      "hebrew-speaking-battleground-democrats": "פוטנציאל דמוקרטים דוברי עברית",
+      "hebrew-speaking-battleground-democrats_rural-area": "פוטנציאל דמוקרטים דוברי עברית - מרחב כפרי",
+      "hebrew-speaking-battleground-democrats_north_sharon": "פוטנציאל דמוקרטים דוברי עברית - צפון השרון",
+      "hebrew-speaking-battleground-democrats_south_sharon": "פוטנציאל דמוקרטים דוברי עברית - שרון דרומי",
+      "hebrew-speaking-battleground-democrats_haifa": "פוטנציאל דמוקרטים דוברי עברית - חיפה",
+      "hebrew-speaking-battleground-democrats_youngsters": "פוטנציאל דמוקרטים דוברי עברית - צעירים",
+      "hebrew-speaking-battleground-democrats_jerusalem": "פוטנציאל דמוקרטים דוברי עברית - ירושלים",
+      "hebrew-speaking-battleground-democrats_tel-aviv": "פוטנציאל דמוקרטים דוברי עברית - תל אביב",
+      "hebrew-speaking-battleground-democrats_shephelah": "פוטנציאל דמוקרטים דוברי עברית - שפלה",
+      "hebrew-speaking-battleground-democrats_dan": "פוטנציאל דמוקרטים דוברי עברית - גוש דן",
+      "hebrew-speaking-battleground-democrats_south": "פוטנציאל דמוקרטים דוברי עברית - דרום",
+      "hebrew-speaking-battleground-democrats_north": "פוטנציאל דמוקרטים דוברי עברית - צפון",
+      "merkazim-beer-sheva-liberal-potential-priority": "תעדוף אזורים לעבודה בבאר שבע",
+      "voter-file-1": "מאגר נתונים אגם",
+      "more": "עוד"
+    },
+    "legend": {
+      "none": "לא רלוונטי למחקר",
+      "research-trend-in-liberal-support_none": "לא במחקר",
+      "plakat-support": "בייס",
+      "plakat-persuasion": "לשכנע מתלבטים",
+      "plakat-encouragement": "לעודד הצבעה",
+      "plakat-none": "לא לגעת",
+      "plakat-support-action": "תמיכה",
+      "plakat-persuasion-action": "שכנוע",
+      "plakat-encouragement-action": "עידוד הצבעה",
+      "plakat-none-action": "לא לגעת",
+      "plakat-liberal-support": "תמיכה",
+      "plakat-turnout-vec": "הצבעה",
+      "plakat-support-vec": "תמיכה",
+      "polygons-B": "פוטנציאל שכנוע",
+      "plakat-turnout": "אחוז הצבעה",
+      "research-right-persuasion": "כמות",
+      "research-right-suppression": "כמות",
+      "research-right-suppressed": "כמות ימנים רדומים",
+      "research-religious": "כמות",
+      "research-anglo-saxons": "כמות",
+      "research-new-russians": "כמות",
+      "research-yeshatid-defense-iron": "כמות",
+      "research-yeshatid-defense-anti-ganz": "כמות",
+      "research-yeshatid-defense-crispy": "כמות",
+      "research-yeshatid-defense-urgency": "כמות",
+      "research-yeshatid-battleground-top": "תמיכה בשתיהן",
+      "research-yeshatid-battleground-right": "יש עתיד",
+      "research-yeshatid-battleground-left": "כחול לבן",
+      "compass-inter-bloc-range-top": "נטייה ליברלית",
+      "compass-inter-bloc-range-left": "תווך בין גושי",
+      "compass-inter-bloc-range-shita-top": "נטייה ליברלית",
+      "compass-inter-bloc-range-shita-left": "תווך בין גושי",
+      "compass-yashar-top": "נטייה ליברלית",
+      "compass-yashar-municipal-top": "נטייה ליברלית",
+      "compass-yashar-left": "פוטנציאל ישר",
+      "compass-yashar-municipal-left": "פוטנציאל ישר",
+      "compass-bennet-top": "נטייה ליברלית",
+      "compass-bennet-left": "פוטנציאל ביחד",
+      "research-arabs-gotv-potential-top": "סיכויי הצבעה",
+      "research-arabs-gotv-potential-left": "פוטנציאל (בז״ב)",
+      "yeshatid_support_amount": "תמיכה כוללת בשתיהן",
+      "research-tactical-liberals": "כמות",
+      "yeshatid_leaning_yeshatid": "תמיכה ביש עתיד אל מול כחול לבן",
+      "research-yeshatid-battleground-leaning-true": "יש עתיד",
+      "research-yeshatid-battleground-leaning-false": "כחול לבן",
+      "research-russian-centers-top": "עולים משתי התקופות",
+      "research-russian-centers-left": "עולי הגבינות",
+      "research-russian-centers-right": "פאמפקין לאטה",
+      "research-russian-centers-leaning-true": "עולי פאמפקין לאטה",
+      "research-russian-centers-leaning-false": "עולי הגבינות",
+      "research-bivector-example-top": "חוזק Y",
+      "research-bivector-example-left": "X חזק",
+      "research-bivector-example-right": "X חלש",
+      "research-bivector-example-leaning-true": "X חזק",
+      "research-bivector-example-leaning-false": "X חלש",
+      "research-tikva-kulanu-prexit": "כמות",
+      "research-kulanu-prexit": "כמות מצביעי כחלון",
+      "research-tikva-prexit": "כמות",
+      "research-trend-in-liberal-support": "מגמת",
+      "research-trend-in-liberal-support_low-female": "ירידה",
+      "research-trend-in-liberal-support_high-female": "עלייה",
+      "research-gotv-potential": "כמות",
+      "research-gotv-potential-three": "כמות",
+      "research-moderate-religious": "ציון",
+      "research-convincible-sausages": "כמות",
+      "research-sausages-not-voting": "כמות",
+      "research-eisenkot-potential": "כמות",
+      "research-geo-datlash": "כמות",
+      "research-geo-datlash-religious": "כמות",
+      "research-geo-datlash-traditional": "כמות",
+      "research-linear-example": "כמות",
+      "research-plakat-democrates": "תמיכה",
+      "research-democrats-lost-votes": "כמות",
+      "research-arab-democrats": "פוטנציאל",
+      "hebrew-speaking-potential-democrats": "פוטנציאל",
+      "research-winter-potential": "פוטנציאל",
+      "hebrew-speaking-battleground-democrats-top": "מקרא",
+      "hebrew-speaking-battleground-democrats-left": "בסיס תמיכה",
+      "hebrew-speaking-battleground-democrats-right": "ניתנים לשכנוע",
+      "hebrew-speaking-battleground-democrats-leaning-true": "שכנוע",
+      "hebrew-speaking-battleground-democrats-leaning-false": "בייס",
+      "merkazim-beer-sheva-liberal-potential-priority": "פוטנציאל",
+      "GEN_neighborhoods_2022": "שכונה: ",
+      "plakat-voters": "מספר בז״בים",
+      "voter-file-1": "כיסוי",
+      "plakat-liberal": "",
+      "plakat-example": "",
+      "high-male": "גבוה",
+      "high-female": "גבוהה",
+      "low-male": "נמוך",
+      "low-female": "נמוכה",
+      "more": "יותר",
+      "not-leaning": "אין נטייה מובהקת",
+      "leaning": "נוטה",
+      "potential": "פוטנציאל",
+      "much": "מאד",
+      "support": "תמיכה",
+      "voters": "{value} בז״בים",
+      "people": "{value} אנשים",
+      "score": "ציון: {value} (מדד {score} מתוך 100)",
+      "research-trend-in-liberal-support_score": "{score} בכל מערכה\nשינוי כולל: {subtitle}",
+      "zone-characterization": "אפיון הא״ס: {value}",
+      "score-buckets": {
+        "Sharp Decline": "ירידה חדה",
+        "Decline": "ירידה מתונה",
+        "Stability": "יציבות",
+        "Rise": "עלייה מתונה",
+        "Sharp Rise": "עלייה חדה",
+
+        "Very High": "גבוה מאוד",
+        "High": "גבוה",
+        "Medium": "בינוני",
+        "Low": "נמוך",
+        "Very Low": "נמוך מאד",
+
+        "Tends to convincibles": "שכנוע",
+        "No tendency": "אין נטייה מובהקת",
+        "Tends to base": "בייס"
+      },
+      "compass": "פוטנציאל {potential} \n({potential_count} בז״בים),\n א״ס {support}",
+      "compass-potential": "פוטנציאל {potential}\n({potential_count} בז״בים)",
+      "compass-support": "פוטנציאל {potential}\n א״ס {support}"
+    },
+    "filter": {
+      "global": {
+        "title": "סינון:",
+        "extended-title": "סינון קהלי יעד",
+        "add-filter": "מסנן נוסף"
+      },
+      "component": {
+        "type": {
+          "placeholder": "חיפוש מאפיין",
+          "geographical-area": "יחידה גיאוגרפית",
+          "municipal-type": "סוג ישוב",
+          "layer": "שכבת מפה",
+          "signage": "שילוט"
+        },
+        "boolean": {
+          "true": "הוא",
+          "false": "הוא לא",
+          "true-female": "היא",
+          "false-female": "היא לא"
+        },
+        "placeholder": {
+          "geographical-area": "חיפוש איזור",
+          "municipal-type": "חיפוש סוג ישוב",
+          "layer": "חיפוש תובנה",
+          "signage": "חיפוש שילוט"
+        },
+        "value-label": {
+          "Big15": "ערים גדולות",
+          "Cities": "ערים קטנות",
+          "SmallTowns": "ישובים קטנים",
+          "Arab": "ישובים ערביים",
+          "Kibutz": "קיבוצים",
+          "Moshav": "מושבים",
+          "support": "בייס",
+          "persuasion": "לשכנע מתלבטים",
+          "encouragement": "לעודד הצבעה",
+          "none": "לא רלוונטי",
+          "research-trend-in-liberal-support_none": "לא במחקר",
+          "strong": "חזק",
+          "weak": "חלש",
+          "Other": "אחר",
+          "palrig:suggestion": "פלריג - הצעה",
+          "palrig:implemented": "פלריג - בוצע",
+          "bilboard:suggestion": "בילבורד - הצעה",
+          "bilboard:implemented": "בילבורד - בוצע",
+          "operational:suggestion": "תפעולי - הצעה",
+          "operational:implemented": "תפעולי - בוצע",
+          "Core": "בייס חזק",
+          "Base": "בייס",
+          "PersuationHighVote": "לשכנע מתלבטים חזק",
+          "PersuationLowVote": "לשכנע מתלבטים",
+          "GOTV&rPLAKAT_Turnout:0-55": "לעודד הצבעה חזק",
+          "GOTV&rPLAKAT_Turnout:55-100": "לעודד הצבעה",
+          "None": "לא לגעת",
+          "range_0": "אפסי",
+          "range_1": "נמוך",
+          "range_2": "בינוני",
+          "range_3": "גבוה",
+          "range_4": "גבוה מאוד",
+          "research-trend-in-liberal-support_range_0": "ירידה חדה",
+          "research-trend-in-liberal-support_range_1": "ירידה מתונה",
+          "research-trend-in-liberal-support_range_2": "יציבות",
+          "research-trend-in-liberal-support_range_3": "עלייה מתונה",
+          "research-trend-in-liberal-support_range_4": "עלייה חדה",
+          "yeshatid_matrix_row_0": "תמיכה חלשה",
+          "yeshatid_matrix_row_1": "תמיכה בינונית",
+          "yeshatid_matrix_row_2": "תמיכה חזקה",
+          "yeshatid_matrix_col_0": "ונוטה לכחול לבן",
+          "yeshatid_matrix_col_1": "וללא נטייה מובהקת",
+          "yeshatid_matrix_col_2": "ונוטה ליש עתיד",
+          "russian_matrix_row_0": "כמות נמוכה",
+          "russian_matrix_row_1": "כמות בינונית",
+          "russian_matrix_row_2": "כמות גבוהה",
+          "russian_matrix_col_0": "ונוטה לעולי גבינות",
+          "russian_matrix_col_1": "וללא נטייה מובהקת",
+          "russian_matrix_col_2": "ונוטה לעולי פאמפקין לאטה",
+          "democrats_matrix_row_0": "פוטנציאל נמוך",
+          "democrats_matrix_row_1": "פוטנציאל בינוני",
+          "democrats_matrix_row_2": "פוטנציאל גבוה",
+          "democrats_matrix_col_0": "נוטה לבייס",
+          "democrats_matrix_col_1": "אין נטייה מובהקת",
+          "democrats_matrix_col_2": "נוטה לשכנוע",
+          "example_matrix_row_0": "כמות נמוכה",
+          "example_matrix_row_1": "כמות בינונית",
+          "example_matrix_row_2": "כמות גבוהה",
+          "example_matrix_col_0": "נוטה ל X חזק",
+          "example_matrix_col_1": "וללא נטייה מובהקת",
+          "example_matrix_col_2": "נוטה ל X חלש",
+          "compass_conservative": "שמרני",
+          "compass_mixed": "מעורב",
+          "compass_liberal": "ליברלי",
+          "compass_very low": "נמוך מאוד",
+          "compass_low": "נמוך",
+          "compass_moderate": "בינוני",
+          "compass_high": "גבוה"
+        }
+      }
+    },
+    "filters-list": {
+      "open-list": {
+        "list": "רשימה",
+        "show": "הצג",
+        "hide": "הסתר"
+      },
+      "header": {
+        "key": "#",
+        "city": "ישוב",
+        "support": "תמיכה",
+        "research": "מחקר"
+      },
+      "download": "הורד קובץ רשימה",
+      "no-data": "אנחנו מתנצלים, נראה כי הסנן לא נתן תוצאה",
+      "loading": "טוען..."
+    },
+    "dataKey": {
+      "DEMO_pop_total_2022": "תושבים",
+      "DEMO_pop_total_2024": "תושבים",
+      "PLAKAT_Liberal_support*KNESSET_25_rtv": "בז״בים לשכנוע",
+      "KNESSET_25_rtv": "בז״בים",
+      "KNESSET_26_rtv_corrected": "בז״בים",
+      "RESEARCH_first_time_voters": "מצביעי פעם ראשונה",
+      "PLAKAT_Liberal_support": "תמיכה",
+      "PLAKAT_YESHATID_support": "תמיכה",
+      "PLAKAT_DEMOCRATS_support": "תמיכה",
+      "PLAKAT_Turnout": "הצבעה",
+      "RESEARCH_SWINGING_RIGHT_potential_persuasion_count": "מס׳ ברי שכנוע",
+      "RESEARCH_SWINGING_RIGHT_potential_suppression_count": "מס׳ ברי הרגעה",
+      "RESEARCH_SWINGING_RIGHT_currently_suppressed_count": "מס׳ ימנים רדומים",
+      "YESHATID_RESEARCH_support_kahol_lavan": "תמיכה ברשימת בכחול לבן",
+      "YESHATID_RESEARCH_support_yesh_atid": "תמיכה ביש עתיד"
+    },
+    "signage": {
+      "toggle": "ערוך פעילות",
+      "title": "פעילויות",
+      "back-to-list": "< חזרה לרשימת הפעילויות",
+      "add-title": "הוספת פעילות",
+      "empty": "עדיין לא נוספו פעילויות. הוסיפו את הפעילות הראשונה כדי ליצור שכבה חדשה על המפה.",
+      "coordinates": "קואורדינטות: {lat}, {lng}",
+      "signage": "שילוט",
+      "columns": {
+        "type": "פעילות",
+        "stat-zone": "א״ס",
+        "address": "כתובת",
+        "comment": "הערות"
+      },
+      "fields": {
+        "type": "סוג פעילות",
+        "address": "כתובת",
+        "address-placeholder": "חפשו כתובת",
+        "comment": "הערה",
+        "status": "סטטוס"
+      },
+      "activity-types": {
+        "palrig": "פלריג",
+        "bilboard": "בילבורד",
+        "operational": "תפעולי"
+      },
+      "statuses": {
+        "suggestion": "הצעה",
+        "implemented": "בוצע"
+      },
+      "filters": {
+        "all": "הכל",
+        "suggestion": "הצעות",
+        "implemented": "בוצע"
+      },
+      "sort": {
+        "newest": "מהחדש לישן",
+        "oldest": "מהישן לחדש",
+        "type": "לפי סוג",
+        "status": "לפי סטטוס"
+      },
+      "actions": {
+        "add": "הוספת פעילות",
+        "cancel": "ביטול",
+        "save": "שמירת פעילות",
+        "delete": "מחיקה"
+      },
+      "delete-confirm": {
+        "title": "האם למחוק את הפעילות?",
+        "description": "הפעילות תימחק סופית.",
+        "ok": "למחוק",
+        "cancel": "לא למחוק"
+      },
+      "validation": {
+        "address": "יש לבחור כתובת מתוך תוצאות החיפוש"
+      }
+    },
+    "kalpi": {
+      "title": "קלפיות",
+      "empty": "עדיין אין קלפיות טעונות. הזיזו או הגדילו את המפה כדי לטעון קלפיות נוספות.",
+      "columns": {
+        "rank": "דירוג",
+        "location": "קלפי",
+        "potential-group": "פוטנציאל",
+        "statistical-zone": "א״ס",
+        "place": "מיקום",
+        "fixed_rtv": "בז״בים",
+        "potential": "פוטנציאל"
+      },
+      "detail": {
+        "back-to-list": "< חזרה לרשימת הקלפיות",
+        "fallback-title": "פרטי קלפי",
+        "main": {
+          "potential": "פוטנציאל",
+          "high": "גבוה",
+          "medium": "בינוני",
+          "low": "נמוך"
+        },
+        "sections": {
+          "ranking": "דירוג",
+          "target-audiences": "את מי נפגוש?",
+          "raw-data": "פרטים נוספים על האשכול",
+          "turnout": "אחוז הצבעה 2022",
+          "profile": "אופי האשכול:",
+          "profile-table": "נטייה פוליטית"
+        },
+        "fields": {
+          "city-rank": "מקומי",
+          "national-rank": "ארצי",
+          "base": "בייס",
+          "persuadable": "ניתנים לשכנוע",
+          "supporters": "תומכים",
+          "swing": "מתנדנדים",
+          "potential": "בז״בים",
+          "potential-group": "קבוצת פוטנציאל",
+          "fixed_rtv": "בז״בים",
+          "interblock_cnt": "תווך בין גושי",
+          "suppressibles": "לא לגעת",
+          "party_members_cnt": "מתפקדים",
+          "party_members_rank": "דירוג ע״פ מתפקדים בלבד",
+          "kalpi-count": "מספר קלפיות",
+          "statistical-zone": "א״ס",
+          "location": "מיקום",
+          "official-rtv": "בז״ב רשמי",
+          "fixed-rtv": "בז״ב מתוקן",
+          "city-cluster-code": "קוד אשכול",
+          "place": "מיקום",
+          "groups": {
+            "profile-table": "נטייה פוליטית",
+            "": "",
+            "liberals": "ליברלים",
+            "inter-bloc": "תווך בין גושי",
+            "conservatives": "שמרנים",
+            "orthodox": "מפלגות חרדיות",
+            "arab": "מפלגות ערביות"
+          }
+        }
+      }
+    },
+    "door-to-door": {
+      "labels": {
+        "apartments": "דירות",
+        "apartment": "דירה",
+        "house-type": "סוג בית",
+        "status": "סטטוס",
+        "pledge": "התחייבות",
+        "notes": "הערות"
+      },
+      "statuses": {
+        "pledged": "התחייבו להצביע",
+        "declined": "סירבו",
+        "not_home": "לא היו בבית",
+        "left_material": "הושאר חומר",
+        "needs_follow_up": "דורש מעקב",
+        "not_interested": "לא מעוניינים",
+        "coming_back_again": "לחזור שוב",
+        "come_back": "לחזור שוב",
+        "follow_up": "מעקב",
+        "negative": "לא מעוניינים"
+      },
+      "house-types": {
+        "apartment": "דירה",
+        "private_house": "בית פרטי",
+        "single_family": "בית פרטי"
+      },
+      "pledges": {
+        "true": "התחייבו",
+        "false": "לא התחייבו",
+        "unknown": "לא ידוע"
+      }
+    },
+    "party-members": {
+      "party-members": "מס׳ מתפקדים:"
+    }
+  },
+  "Data": {
+    "Header": {
+      "research": {
+        "title": {
+          "plakat": "תוצאות מודל פלקט:",
+          "support-model-results": "תוצאות מודל התמיכה:",
+          "research-right-persuasion": "מחקר מתנדנדי גושים",
+          "research-right-suppressed": "מחקר ימנים רדומים",
+          "research-right-suppression": "מחקר ימנים ברי הרגעה",
+          "research-yeshatid-battleground-color": "תמיכה ביש עתיד מול כחול לבן",
+          "research-yeshatid-battleground-opacity": "כמות תמיכה כוללת בשתיהן",
+          "research-new-russians": "מחקר עולים מבריה״מ לשעבר",
+          "research-yeshatid-defense": "התפלגות פוטנציאלית למצביעי יש עתיד",
+          "research-yeshatid-defense-stat": "התפלגות בא״ס:",
+          "research-yeshatid-defense-city": "התפלגות בישוב/ מועצה אזורית:",
+          "plakat-voters": "מספר בז״בים",
+          "winter-potential": "פוטנציאל וינטר",
+          "research-religious": "מחקר דתיים",
+          "research-anglo-saxons": "מחקר אנגלו-סקסים",
+          "research-russian-centers": "מחקר עולים מבריה״מ לשעבר",
+          "research-tactical-liberals": "מחקר ליברלים טקטיים",
+          "research-tikva-kulanu-prexit": "מצביעי תקווה חדשה שהגיעו מכולנו",
+          "research-kulanu-prexit": "מחקר מצביעי כחלון 2019 א׳",
+          "research-tikva-prexit": "מחקר מצביעי תקווה חדשה 2021",
+          "research-geo-datlash": "נתוני המחקר",
+          "research-geo-datlash-religious": "מחקר עוברים לאזורים חילוניים מאזורים דתיים",
+          "research-geo-datlash-traditional": "מחקר עוברים לאזורים חילוניים מאזורים מסורתיים",
+          "research-trend-in-liberal-support": "מחקר מגמות תמיכה בגוש הליברלי\nהמגמה: ",
+          "research-gotv-potential": "מחקר עידוד הצבעה",
+          "research-gotv-potential-three": "מחקר עידוד הצבעה",
+          "research-moderate-religious": "ציון: ",
+          "research-convincible-sausages": "מחקר עולי בריה״מ מתנדנדי גושים",
+          "research-sausages-not-voting": "מחקר עולי בריה״מ שלא מצביעים",
+          "research-eisenkot-potential": "מחקר פוטנציאל אייזנקוט",
+          "lost-democrats-votes-2022": "קולות של הדמוקרטים בממשלת השינוי שאבדו ב-2022",
+          "hebrew-speaking-battleground-democrats": "קהלי מטרה ויעדים בקרב דוברי עברית",
+          "hebrew-speaking-battleground-democrats-info": "אחוז הצבעה 2022",
+          "merkazim-beer-sheva-liberal-potential-priority": "פוטנציאל אימפקט: ",
+          "potential_rtv_by_needed_effort": "בז״ב פוטנציאלי בחלוקה לפי מאמץ עידוד נדרש",
+          "zone_party_affiliation": "השתייכות מפלגתית (מתוך בז״ב דוברי ערבית)",
+          "research-linear-example": "מחקר לדוגמה",
+          "research-bivector-example": "דוגמה למחקר ביוקטורי",
+          "not-voting": "לא מצביעים",
+          "vote-encouragement": "עידוד הצבעה",
+          "always-voting": "תמיד מצביעים",
+          "vote-likelihood-split": "חלוקה לפי סיכויי הצבעה",
+          "voter-file-1": "מאגר הנתונים באגם",
+          "score-buckets": {
+            "Sharp Decline": "ירידה חדה",
+            "Decline": "ירידה מתונה",
+            "Stability": "יציבות",
+            "Rise": "עלייה מתונה",
+            "Sharp Rise": "עלייה חדה",
+
+            "Very High": "גבוה מאוד",
+            "High": "גבוה",
+            "Medium": "בינוני",
+            "Low": "נמוך",
+            "Very Low": "נמוך מאד",
+
+            "Tends to convincibles": "שכנוע",
+            "No tendency": "אין נטייה מובהקת",
+            "Tends to base": "בייס"
+          },
+          "potential": "פוטנציאל",
+          "classification": "אפיון",
+          "leaning": "נטייה ל",
+          "potential-subtitle": "את מי פוגשים?",
+          "no-data": "אין נתוני מחקר בא״ס זה",
+          "no-election-data": "אין נתוני בחירות 2019 א׳ בא״ס זה",
+          "statzone-data": "נתוני הא״ס - פוטנציאל {value}, איפיון {leaning}",
+          "statzone-data-inter-bloc-range": "נתוני הא״ס - תווך בין גושי",
+          "municipality-data": "נתוני הרשות",
+          "bloc-breakdown": "חלוקה לגושים",
+          "statzone-character": "אופי הא״ס",
+          "serving-alliance-community": "קהילת ברית המשרתים",
+          "arabic-speaking-rtv": "בז״ב דוברי ערבית",
+          "whole-statzone": "כלל\nהא״ס",
+          "whole-municipality": "כלל הרשות",
+          "yashar-potential": "פוטנציאל ישר",
+          "political-leaning": "נטייה פוליטית",
+          "liberals": "ליברלים",
+          "inter-bloc": "תווך בין גושי",
+          "conservatives": "שמרנים",
+          "orthodox-parties": "מפלגות חרדיות",
+          "arab-parties": "מפלגות ערביות",
+          "city-type": "סוג היישוב",
+          "top-10-families-in-settlement": "טופ 10 משפחות ביישוב",
+          "arabs-gotv-statzone-data": "נתוני הא״ס - פוטנציאל {potential}",
+          "total": "סה״כ"
+        },
+        "numbers": {
+          "people": "אנשים",
+          "voters": "בז״בים",
+          "potential": "פוטנציאל",
+          "potential-mapping-target": "פוטנציאל (יעד המיפוי)",
+          "potential-in-municipality": "פוטנציאל ברשות",
+          "democrats_support_potential": "פוטנציאל תמיכה בדמוקרטים",
+          "classification": "אפיון",
+          "PLAKAT_Turnout": "פוטנציאל הצבעה:",
+          "PLAKAT_Liberal_support": "פוטנציאל תמיכה:",
+          "PLAKAT_Example_support": "דוגמה:",
+          "RESEARCH_SWINGING_RIGHT_potential_persuasion_count": "אומדן בז״בים מתנדנדים לשכנוע:",
+          "RESEARCH_SWINGING_RIGHT_potential_suppression_count": "אומדן בז״בים ברי הרגעה בימין:",
+          "RESEARCH_SWINGING_RIGHT_currently_suppressed_count": "אומדן בז״בים רדומים בימין:",
+          "RESEARCH_NEW_RUSSIANS_adults_count": "אומדן עולי ״פאמפקין-לאטה״ בא״ס זה:",
+          "RESEARCH_NEW_RUSSIANS_adults_pcnt": "מהבז״בים",
+          "RESEARCH_ANGLO_RELIGIOUS_religious_adults_pcnt": "מהבז״בים",
+          "RESEARCH_ANGLO_RELIGIOUS_anglo_saxon_adults_pcnt": "מהבז״בים",
+          "RESEARCH_ANGLO_RELIGIOUS_religious_adults": "אומדן דתיים בא״ס זה:",
+          "RESEARCH_ANGLO_RELIGIOUS_anglo_saxon_adults": "אומדן אנגלו-סקסים בא״ס זה:",
+          "RESEARCH_NEW_RUSSIANS_new_adults_count": "אומדן עולי ״פאמפקין-לאטה״ בא״ס זה:",
+          "RESEARCH_NEW_RUSSIANS_old_adults_count": "אומדן עולי ״גבינות״ בא״ס זה:",
+          "RESEARCH_NEW_RUSSIANS_new_adults_pcnt": "מהבז״בים",
+          "RESEARCH_NEW_RUSSIANS_old_adults_pcnt": "מהבז״בים",
+          "RESEARCH_YESHATID_DEFENSE_crispy_voters_count": "אומדן ליברלים טקטיים:",
+          "KNESSET_21_turnout_count": "אומדן מצביעים:",
+          "KNESSET_21_turnout": "אחוזי הצבעה",
+          "RESEARCH_TIKVA_PREXIT_votes_count": "אומדן מצביעי תקווה חדשה ב-2021:",
+          "RESEARCH_TIKVA_PREXIT_kulanu_votes_count": "אומדן מצביעי כולנו ב-2019:",
+          "RESEARCH_TIKVA_PREXIT_tikva_from_kulanu_votes_count": "אומדן מצביעי תקווה חדשה שהצביעו בעבר לכולנו:",
+          "RESEARCH_KULANU_PREXIT_votes_count": "אומדן מצביעי כחלון:",
+          "RESEARCH_KULANU_PREXIT_vote_share_of_turnout_pcnt": "מסך המצביעים בא״ס",
+          "RESEARCH_TIKVA_PREXIT_main_donor_party": "רוב מצביעי תקווה חדשה:\nהגיעו מהמפלגה: {value} (בחירות 2020)",
+          "RESEARCH_TIKVA_PREXIT_winner_recipent_party": "עברו למפלגה: {value} (בחירות 2022)",
+          "RESEARCH_GEOGRAPHIC_DATLASH_count": "אומדן האנשים שעברו לאיזור זה מאיזור לא חילוני:",
+          "RESEARCH_GEOGRAPHIC_DATLASH_pcnt": "מהבז״ב באזור זה",
+          "VOTER_FILE_phones_count": "מס בז״בים במאגר:",
+          "VOTER_FILE_coverage_pcnt": "מהבז״בים",
+          "RESEARCH_liberal_support_trend_pcnt": " - שינוי של {score} מסך הקולות בכל מערכת בחירות",
+          "RESEARCH_liberal_support_change_pcnt": "\nסה״כ שינוי של {value} בין 2019 ל-2022",
+          "RESEARCH_trend_in_liberal_support_KNESSET_25_liberal_pcnt": "התמיכה ב-2022: {value}",
+          "RESEARCH_trend_in_liberal_support_KNESSET_24_liberal_pcnt": "התמיכה ב-2021: {value}",
+          "RESEARCH_trend_in_liberal_support_KNESSET_23_liberal_pcnt": "התמיכה ב-2020: {value}",
+          "RESEARCH_trend_in_liberal_support_KNESSET_22_liberal_pcnt": "התמיכה ב-2019: {value}",
+          "RESEARCH_trend_in_liberal_support_KNESSET_25_rtv_count": "בז״ב 2022: {value}",
+          "RESEARCH_trend_in_liberal_support_KNESSET_25_turnout_pcnt": "אחוז הצבעה 2022: {value}",
+          "WINTER_COMPASS_potential": "פוטנציאל וינטר: ",
+          "WINTER_COMPASS_potential_pcnt": "מהבז\"ב",
+          "RESEARCH_GOTV_POTENTIAL_count": "אומדן ליברלים שניתן להוציא להצביע: ",
+          "RESEARCH_MODERATE_RELIGIOUS_moderate_religious_communities_score_show": " (מדד {score} מתוך 100)",
+          "RESEARCH_MODERATE_RELIGIOUS_religious_adults_count": "אומדן דתיים בגיל הצבעה: {value}",
+          "RESEARCH_MODERATE_RELIGIOUS_shaked_supporters_bool": "האם זה אזור שהצביע לשקד: {value}",
+          "RESEARCH_MODERATE_RELIGIOUS_liberal_religious_bool": "האם זה אזור דתי שמצביע ליברלי: {value}",
+          "RESEARCH_MODERATE_RELIGIOUS_not_smotrich_religious_count": "אומדן דתיים שלא הצביעו לסמוטריץ׳: {value}",
+          "RESEARCH_MODERATE_RELIGIOUS_anglo_saxon_count": "אומדן אנגלו-סקסים באזור זה: {value}",
+          "RESEARCH_MODERATE_RELIGIOUS_neemanei_contacts_count": "מספר אנשי קשר של ״נאמני תורה ועבודה״ באזור זה: {value}",
+          "RESEARCH_MODERATE_RELIGIOUS_neemanei_communities_count": "מספר קהילות שמופו באזור זה: {value}",
+          "EDU_academic_degree_M_pcnt_2022": "אחוז גברים בעלי תואר אקדמי: {value}",
+          "DEMO_origin_alyia_pcnt_2022": "אחוז ילידי חו״ל: {value}",
+          "ECO_work_working_pcnt_2022": "אחוז מועסקים: ",
+          "RESEARCH_GEOGRAPHIC_DATLASH_RELIGIOUS_count": "אומדן האנשים שעברו לאיזור זה מאיזור דתי:",
+          "RESEARCH_GEOGRAPHIC_DATLASH_RELIGIOUS_pcnt": "מהבז״ב באזור זה",
+          "RESEARCH_GEOGRAPHIC_DATLASH_TRADITIONAL_count": "אומדן האנשים שעברו לאיזור זה מאיזור מסורתי:",
+          "RESEARCH_GEOGRAPHIC_DATLASH_TRADITIONAL_pcnt": "מהבז״ב באזור זה",
+          "RESEARCH_CONVINCIBLE_SAUSAGES_count": "אומדן עולי שנות ה-90 מבריה״מ מתנדנדים לשכנוע:",
+          "RESEARCH_FSU_NOT_VOTING_count": "אומדן עולי בריה״מ שאינם מצביעים באופן אפיזודי:",
+          "RESEARCH_EISENKOT_potential_voters_count": "אומדן המצביעים הפוטנציאליים:",
+          "RESEARCH_EISENKOT_potential_voters_pcnt": "מהבז״ב באזור זה",
+          "YASHAR_COMPASS_convincibles_potential": "מתנדנדי גושים",
+          "YASHAR_COMPASS_tactical_liberal_potential": "ליברלים טקטיים",
+          "YASHAR_COMPASS_kulanu_or_tiqva_voter_potential": "מצביעי כחלון / סער",
+          "YASHAR_COMPASS_reservist_potential": "מילואימניקים",
+          "YASHAR_COMPASS_soldier_family_potential": "משפחות חיילים (בנוסף)",
+          "YASHAR_COMPASS_soldier_mother_potential": "אימהות חיילים",
+          "YASHAR_COMPASS_border_settl_potential": "ישובי קו התפר",
+          "YASHAR_COMPASS_crime_potential": "אזורים מוכי פשיעה",
+          "YASHAR_COMPASS_druze_potential": "דרוזים",
+          "YASHAR_COMPASS_base_gantz_potential": "בייס המחנה הממלכתי",
+          "YASHAR_COMPASS_potential_pcnt": "({percent}% מהמצביעים בפועל)",
+          "YASHAR_COMPASS_V2_potential_pcnt": "({percent}%)",
+          "MUNICIPAL_YASHAR_COMPASS_V2_potential_pcnt": "({percent}%)",
+          "YASHAR_COMPASS_V2_potential_pcnt_municipality": "({percent}%)",
+          "MUNICIPAL_YASHAR_COMPASS_V2_potential_pcnt_municipality": "({percent}%)",
+          "MUNICIPAL_YASHAR_COMPASS_convincibles_potential": "מתנדנדי גושים",
+          "MUNICIPAL_YASHAR_COMPASS_tactical_liberal_potential": "ליברלים טקטיים",
+          "MUNICIPAL_YASHAR_COMPASS_kulanu_or_tiqva_voter_potential": "מצביעי כחלון / סער",
+          "MUNICIPAL_YASHAR_COMPASS_reservist_potential": "מילואימניקים",
+          "MUNICIPAL_YASHAR_COMPASS_soldier_family_potential": "משפחות חיילים (בנוסף)",
+          "MUNICIPAL_YASHAR_COMPASS_soldier_mother_potential": "אימהות חיילים",
+          "MUNICIPAL_YASHAR_COMPASS_border_settl_potential": "ישובי קו התפר",
+          "MUNICIPAL_YASHAR_COMPASS_crime_potential": "אזורים מוכי פשיעה",
+          "MUNICIPAL_YASHAR_COMPASS_druze_potential": "דרוזים",
+          "MUNICIPAL_YASHAR_COMPASS_base_gantz_potential": "בייס המחנה הממלכתי",
+          "MUNICIPAL_YASHAR_COMPASS_potential_pcnt": "({percent}% מהמצביעים בפועל)",
+          "BENNET_COMPASS_bennett_supporter_potential": "תומכי ביחד",
+          "BENNET_COMPASS_yesh_atid_base_potential": "בייס יש עתיד",
+          "BENNET_COMPASS_convincibles_potential": "מתנדנדי גושים",
+          "BENNET_COMPASS_inter_block_range_potential": "תווך בין גושי",
+          "BENNET_COMPASS_tactical_liberal_potential": "ליברלים טקטיים",
+          "BENNET_COMPASS_kulanu_or_tiqva_voter_potential": "מצביעי כחלון / סער",
+          "BENNET_COMPASS_religious_zionist_potential": "ציונות דתית מתונה",
+          "BENNET_COMPASS_reservist_potential": "מילואימניקים",
+          "BENNET_COMPASS_soldier_family_potential": "משפחות חיילים",
+          "BENNET_COMPASS_soldier_mother_potential": "— מתוכן אימהות",
+          "BENNET_COMPASS_potential_pcnt": "({percent}% מהמצביעים בפועל)",
+          "RESEARCH_DEMOCRATS_lost_votes": "קולות אבודים:",
+          "RESEARCH_DEMOCRATS_lost_votes_pcnt": "מהבז\"ב",
+          "RESEARCH_DEMOCRATS_hebrew_new_supporters": "פוטנציאל תמיכה:",
+          "RESEARCH_DEMOCRATS_hebrew_new_supporters_pcnt": "מהבז״ב",
+          "RESEARCH_democrats_support_total": "פוטנציאל תמיכה:",
+          "RESEARCH_democrats_support": "מהמצביעים",
+          "RESEARCH_DEMOCRATS_hebrew_base_count": "בייס",
+          "RESEARCH_DEMOCRATS_hebrew_convincibles_count": "ניתנים לשכנוע",
+          "RESEARCH_DEMOCRATS_hebrew_base_kpi": "יעד גיוס מתנדבים",
+          "RESEARCH_DEMOCRATS_hebrew_convincibles_kpi": "יעד שכנוע",
+          "RESEARCH_DEMOCRATS_hebrew_knesset_25_official_rtv": "רשמי: {percent} מתוך {count} בז\"ב רשומים בפנקס הבוחרים",
+          "RESEARCH_DEMOCRATS_hebrew_knesset_25_rtv": "מתוקן: {percent} מתוך {count} בז\"ב (לאחר ניכוי תושבי חוץ ובתוספת מצביעי מעטפות כפולות)",
+          "ARABS_DEMOCRATS_will_always_vote_count": "תמיד יצביעו",
+          "ARABS_DEMOCRATS_to_maintain_count": "עידוד קל",
+          "ARABS_DEMOCRATS_gotv_count": "עידוד בינוני",
+          "ARABS_DEMOCRATS_hard_to_convince_count": "עידוד רב",
+          "ARABS_DEMOCRATS_will_not_vote_count": "לא יצביעו",
+          "ARABS_DEMOCRATS_balad_support_pcnt": "בל״ד",
+          "ARABS_DEMOCRATS_raam_support_pcnt": "רע״ם",
+          "ARABS_DEMOCRATS_hadash_support_pcnt": "חד״ש",
+          "ARABS_DEMOCRATS_liberal_zionists_support_pcnt": "מפלגות ציוניות ליברליות",
+          "ARABS_DEMOCRATS_non_voters_pcnt": "לא מצביעים",
+          "ARABS_GOTV_gotv_potential": "פוטנציאל עידוד הצבעה",
+          "bool": {
+            "1": "כן",
+            "0": "לא"
+          },
+          "no-data": "אין נתונים"
+        },
+        "yeshatid-defence": {
+          "sum": "סה״כ:",
+          "RESEARCH_YESHATID_DEFENSE_iron_voters_count": "מצביעי ברזל",
+          "RESEARCH_YESHATID_DEFENSE_anti_gantz_voters_count": "מצביעי אנטי גנץ",
+          "RESEARCH_YESHATID_DEFENSE_crispy_voters_count": "מצביעים ״פריכים״"
+        }
+      }
+    },
+    "Tabs": {
+      "political": "פוליטי",
+      "demographic": "דמוגרפיה",
+      "socioeconomic": "סוציו-אקונומי",
+      "voter-file": "כיסוי מאגר",
+      "no-data": "אין נתונים בא״ס זה"
+    },
+    "Elections": {
+      "title": "התפלגות בחירות 2022",
+      "no-data": "לצערנו אין מידע על הבחירות בא״ס זה",
+      "location": {
+        "data": "נתוני",
+        "statarea": "הא״ס",
+        "city": "היישוב"
+      },
+      "sampleType": "קולות",
+      "sectionA": "קואליציה",
+      "sectionB": "אופוזיציה",
+      "elements": {
+        "מחל": "ליכוד",
+        "ט": "הציונות הדתית",
+        "ב": "הבית היהודי",
+        "אמת": "העבודה",
+        "מרצ": "מרצ",
+        "פה": "יש עתיד",
+        "כן": "כחול לבן",
+        "ל": "ישראל ביתנו",
+        "שס": "שס",
+        "ג": "יהדות התורה",
+        "ום": "חד״ש-תע״ל",
+        "עם": "רע״ם",
+        "ד": "בל״ד",
+        "else": "אחר"
+      },
+      "groupSplitRadioButtons": {
+        "split": "גושים",
+        "unitary": "אחיד"
+      },
+      "municipal-data": {
+        "KNESSET_25_rtv": "בז״ב ריאלי 2022",
+        "KNESSET_25_voters_total": "מצביעים 2022",
+        "KNESSET_26_rtv_estimate": "בז״ב 2026",
+        "KNESSET_26_new_rtv_estimate": "בז״ב חדשים 2026"
+      },
+      "percentageText": "אחוזי הצבעה",
+      "didn'tVote": "לא הצביעו"
+    },
+    "Demographics": {
+      "age-distribution": {
+        "area-title": "התפלגות הגילאים 2024*",
+        "municipal-title": "התפלגות עירונית",
+        "country-title": "התפלגות ארצית:",
+        "age-groups": {
+          "0-9": "9-0",
+          "10-19": "19-10",
+          "20-29": "29-20",
+          "30-39": "39-30",
+          "40-49": "49-40",
+          "50-59": "59-50",
+          "60-69": "69-60",
+          "70-79": "79-70",
+          "over80": "80+"
+        },
+        "median-age": "גיל חציוני",
+        "asterisk": "*אומדן ע״פ נתוני הלמ״ס מ-2022",
+        "median-marriage-age": "גיל נישואין חציוני"
+      },
+      "ethnicities": {
+        "jews": "יהודים",
+        "arabs": "ערבים",
+        "remainder": "אחר"
+      },
+      "alyia": {
+        "alyia": "עולים",
+        "1960-1989": "1989-1960",
+        "1989-2001": "2001-1989",
+        "2000+": "2000+"
+      },
+      "insights": {
+        "married-percent": {
+          "more": "יותר זוגות נשואים",
+          "less": "פחות זוגות נשואים",
+          "text": "מאזורים אחרים בארץ"
+        },
+        "marriage-median": {
+          "more": "מתחתנים פה בגיל מבוגר יחסית",
+          "less": "מתחתנים פה בגיל צעיר יחסית",
+          "text": "לשאר הארץ"
+        }
+      }
+    },
+    "Socioeconomic": {
+      "title": "אשכול סוציו-אקונומי",
+      "city-data": "אשכול מוניציפלי",
+      "collapse": {
+        "employment": "תעסוקה",
+        "employmentSub": "משכורת",
+        "ECO_income_avg_income_PP_2019": "משכורת ממוצעת",
+        "ECO_income_income_twice_avg_pcnt_2019": "מרוויחים מעל לממוצע",
+        "ECO_income_bellow_minimum_wage_pcnt_2019": "אחוזי אבטלה",
+        "ECO_QOL_average_num_days_abroad_2019": "ממוצע שהות בחו״ל לנפש",
+        "education": "חינוך",
+        "educationSub": "בעלי תואר אקדמי",
+        "EDU_schoolyrs_average_2019": "ממוצע שנות לימוד",
+        "EDU_academic_degree_pcnt_2022": "אחוז בעלי תואר אקדמי",
+        "EDU_yeshiva_M_pcnt_2022": "אחוז בוגרי ישיבות",
+        "EDU_highschool_diploma_pcnt_2022": "אחוז בעלי תעודת בגרות",
+        "housing": "דיור",
+        "housingSub": "גרים בשכירות",
+        "ECO_housing_rentals_pcnt_2022": "גרים בשכירות",
+        "ECO_housing_available_houses_2021": "מספר דירות זמינות",
+        "ECO_housing_available_houses_PP_2022": "מספר דירות לנפש",
+        "crime": "פשע",
+        "crimeSub": "תיקים פליליים",
+        "CRIME_average_num_cases_PP_2022": "מספר תיקים בשנה ל 1000 איש",
+        "noData": "מידע חסר",
+        "perYear": "ימים בשנה",
+        "years": "שנים"
+      }
+    },
+    "VoterFile": {
+      "title": "ייצוג במאגר אגם",
+      "location": {
+        "data": "כיסוי",
+        "statarea": "בא״ס",
+        "city": "ביישוב"
+      },
+      "VOTER_FILE_coverage_pcnt": "כיסוי בא״ס",
+      "VOTER_FILE_phones_count": "בז״בים במאגר",
+      "distribution": {
+        "title": "חלוקה לפי שיוך פוליטי",
+        "voters": "בז״בים",
+        "liberal": "ליברלי",
+        "inconclusive": "לא ברור",
+        "conservative": "לא ליברלי",
+        "unknown": "ללא שיוך פוליטי"
+      }
+    }
+  },
+  "User-management": {
+    "title": "ניהול הגדרות",
+    "sub-title": "ניהול משתמשי",
+    "mail-input": {
+      "title": "הוספת משתמשים חדשים",
+      "paragraph": "ניתן להוסיף כתובת דואר אלקטרוני על מנת להוסיף משתמשים למערכת. הזמנה תישלח לכתובת המייל המצויינת:",
+      "send": "שליחה",
+      "footer": "ניתן לצרף יותר ממשתמש אחד על ידי ריווח כתובות הדואר באמצאות סימן פסיק"
+    },
+    "users-table": {
+      "title": "רשימת משתמשים",
+      "columns": {
+        "name": "שם",
+        "email": "e-mail",
+        "roles": "תפקיד",
+        "last-activity": "פעילות אוחרונה",
+        "edit": "עריכה"
+      },
+      "text": { "waiting-for-connection": "ממתין להתחברות" }
+    }
+  },
+  "Campaigner": {
+    "Campaigns": {
+      "title": "קמפיינים",
+      "add-campaign": "הוספת קמפיין",
+      "all-campaigns": "כל הקמפיינים",
+      "search-placeholder": "חיפוש קמפיין...",
+      "columns": {
+        "name": "שם הקמפיין",
+        "org": "ארגון",
+        "channels": "ערוצים",
+        "kpi": "מטריקה מרכזית",
+        "start-date": "תאריך יצירה",
+        "clicks": "קליקים",
+        "percent-clicks": "% הקלקה",
+        "converted": "המרות",
+        "percent-converted": "% המרות",
+        "more": "",
+        "no-data": "לא נוצרו קמפיינים עדיין",
+        "not-launched": "צרו לינקים להתחלת הקמפיין"
+      },
+      "stat-view": {
+        "title": {
+          "top": "טופ",
+          "campaigns": "קמפיינים",
+          "audiences": "קהלים",
+          "channels": "ערוצים",
+          "clicks": "קליקים",
+          "converted": "המרות",
+          "no-data": "לא קיימים נתונים סטיסטיים עדיין"
+        }
+      },
+      "back": "חזרה לכל הקמפיינים"
+    },
+    "Campaign": {
+      "header": {
+        "main": "קמפיין",
+        "name": "נושא הקמפיין",
+        "kpi": "מטריקה מרכזית",
+        "createdAt": "תאריך יצירה",
+        "launchedAt": "תאריך התחלה",
+        "edit": "עריכה",
+        "copy": "שכפול",
+        "generate-urls": "צרו לינקים"
+      },
+      "stat-view": {
+        "channel": "פר ערוץ",
+        "audience": "פר קהל",
+        "clicks": "קליקים",
+        "converted": "המרות",
+        "no-data": "לא קיימים נתונים סטיסטיים עדיין"
+      },
+      "urls-view": {
+        "group-by": "קיבוץ לפי",
+        "channel": "סוג פעילות",
+        "audience": "קהל יעד",
+        "all": "סוגי פעילויות וקהלי יעד",
+        "no-audience": "ללא קהל",
+        "columns": {
+          "channel": "ערוץ",
+          "channels": "ערוצים",
+          "audience": "קהל",
+          "audiences": "קהלים",
+          "audience-size": "גודל הקהל",
+          "clicks": "קליקים",
+          "percent-clicks": "% הקלקה",
+          "converted": "המרה",
+          "percent-converted": "% המרה",
+          "url-copy": "כתובת URL"
+        },
+        "tooltips": {
+          "download-qr": "הורדת QR code"
+        }
+      }
+    },
+    "Stats": {
+      "clicks": "{value} קליקים",
+      "converted": "{value} המרות"
+    },
+    "KPI": {
+      "AWARENESS": "חשיפה",
+      "FUNDRAISING": "תרומה",
+      "SINGLE_DONATION": "תרומה חד-פעמית",
+      "REOCCURRING_DONATION": "תרומה קבועה",
+      "SELLING_MERCHANDISE": "מכירות",
+      "NEW_SUPPORTERS_RECRUITMENT": "גיוס תומכים",
+      "VOLUNTEERS_RECRUITMENT": "גיוס פעילים",
+      "SIGN_UP": "הרשמה",
+      "PARTY_REGISTRATION": "התפקדות",
+      "EVENT_REGISTRATION": "הרשמה לאירוע",
+      "All": "כל הקמפיינים",
+      "": ""
+    },
+    "Wizard": {
+      "title": {
+        "main": "קמפיין",
+        "name": "נושא הקמפיין",
+        "kpi": "מטריקה מרכזית",
+        "createdAt": "תאריך התחלה"
+      },
+      "navigation": {
+        "previous": "הקודם",
+        "next": "הבא",
+        "save-and-close": "לשמור ולסגור",
+        "done": "צרו לינקים",
+        "steps": {
+          "naming-and-kpi": "הגדרות ומטרות",
+          "channels": "ערוצים",
+          "audience": "קהלים"
+        },
+        "generate-confirmation": {
+          "title": "האם אתם בטוחים?",
+          "description": "לאחר יצירת הלינקים לא תוכלו לערוך את הקמפיין, רק ליצור לינקים לערוצים וקהלים נוספים",
+          "ok": "צרו לינקים",
+          "cancel": "ביטול"
+        },
+        "name-duplication": "העתק של {name}"
+      },
+      "steps": {
+        "naming-and-kpi": {
+          "fields": {
+            "kpi": {
+              "title": "מטריקה מרכזית",
+              "description": "לקמפיין יכולות להיות מגוון מטרות, בחרו את המטרה העיקרית, לפיה תמדדו את הצלחת הקמפיין",
+              "required": "אנה בחרו מטריקה מרכזית"
+            },
+            "name": {
+              "title": "נושא הקמפיין",
+              "description": "בחר שם ייחודי לקמפיין כדי להבדיל אותו מאחרים, ולאחד את כל הפעילויות הקשורות תחת שם משותף.",
+              "required": "אנא הכנס נושא",
+              "placeholder": "הקלד את שם הקמפיין שלך...",
+              "duplicate": "שם הקמפיין כבר קיים",
+              "only_ascii": "אנא הזינו רק אותיות באנגלית"
+            },
+            "baseLink": {
+              "title": "עמוד נחיתה",
+              "description": "לאן תשלחו את קהל היעד? עמודי נחיתה הינם, על פי רוב, טפסי רישום, עצומות, עמודי תרומה וכיוצ״ב",
+              "placeholder": "https://example.com",
+              "required": "אנה הכניסו לינק",
+              "url": "זהו אינו url תיקני",
+              "utm_warning": "ה-URL אינו יכול להכיל פרמטרים של UTM",
+              "update-action": "עדכון",
+              "update-confirm-title": "לעדכן את עמוד הנחיתה?",
+              "update-confirm-description": "הפעולה תעדכן את לינק הבסיס של הקמפיין שכבר הושק",
+              "update-confirm-ok": "עדכון",
+              "update-confirm-cancel": "ביטול",
+              "update-success": "עמוד הנחיתה עודכן בהצלחה",
+              "update-error": "עדכון: עמוד הנחיתה נכשל",
+              "update-no-change": "אין שינויים בעמוד הנחיתה לעדכון"
+            }
+          },
+          "campaign-name-exists": "קמפיין בעל שם דומה כבר קיים",
+          "edit-existing-campaign": "עדכון קמפיין קיים",
+          "add-new-campaign": "הוספת קמפיין חדש"
+        },
+        "channels": {
+          "title": "כיצד תגיעו לקהל היעד?",
+          "subtitle": "בחרו את סוגי הפעילויות שאתם מתכננים לבצע (ניתן להוסיף פעילויות נוספות בכל שלב בחיי הקמפיין)",
+          "info": "הפעילויות והערוצים הנבחרים ישמשו את המערכת לשדות ה-medium  ו-source  בלינק למעקב אחר הפעילות",
+          "categories": {
+            "direct": "פנייה ישרה",
+            "organic": "מדיה חברתית אורגנית",
+            "paid": "מדיה חברתית בתשלום",
+            "physical": "עבודת שטח",
+            "display": "ערוצי דיספליי בתשלום"
+          },
+          "channels": {
+            "email_direct": "אימייל",
+            "newsletter_direct": "ניוזלטר",
+            "whatsapp_direct": "וואטסאפ אישי",
+            "sms_direct": "SMS",
+            "tiktok_organic": "טיקטוק",
+            "facebook_organic": "פייסבוק",
+            "instagram_organic": "אינסטגרם",
+            "whatsapp_groups_organic": "קבוצות וואטסאפ",
+            "google_search_organic": "חיפוש גוגל",
+            "youtube_organic": "יוטיוב",
+            "meta_organic": "כל מטא",
+            "x_organic": "X (טוויטר)",
+            "linkedin_organic": "לינקדאין",
+            "facebook_ads_paid": "פייסבוק",
+            "instagram_ads_paid": "אינסטגרם",
+            "youtube_ads_paid": "יוטיוב",
+            "google_ads_paid": "גוגל",
+            "meta_ads_paid": "כל מטא",
+            "x_ads_paid": "X (טוויטר)",
+            "linkedin_ads_paid": "לינקדאין",
+            "print_qr_physical": "דפוס (QR)",
+            "door_to_door_physical": "דור טו דור",
+            "phone_call_physical": "פנייה טלפונית",
+            "in_person_meeting_physical": "חוג בית",
+            "lecture_physical": "הרצאות",
+            "video_call_physical": "שיחות וידאו",
+            "stand_physical": "דוכן",
+            "haaretz_display": "הארץ",
+            "gen_display": "מדיה כללית",
+            "outbrain_display": "אאוטבריין",
+            "taboola_display": "טאבולה",
+            "isra_display": "ישראל היום",
+            "srug_display": "סרוגים",
+            "walla_display": "וואלה",
+            "ynet_display": "ynet",
+            "glob_display": "גלובס",
+            "calc_display": "כלכליסט",
+            "one_display": "ONE",
+            "n12_display": "N12",
+            "kipa_display": "כיפה",
+            "plk_display": "Planet K",
+            "sp5_display": "ספורט 5",
+            "idx_display": "ID-X",
+            "a7_display": "ערוץ 7"
+          }
+        },
+        "audience": {
+          "title": "מי קהל היעד?",
+          "subtitle": "הוסיפו קהלי יעד במגוון דרכים",
+          "warning": "שימו לב: בהגעה לעמוד הנחיתה אחרי לחיצה על הלינק המקוצר, שם קהל היעד יופיע בקהל היעד כפי שהוא נכתב כאן יהיה גלוי",
+          "examples": {
+            "manual": {
+              "title": "הוספה ידנית",
+              "text": "הוסיפו את שם קהל היעד וכמות האנשים"
+            },
+            "csv": {
+              "title": "העלאת רשימה",
+              "text": "העלו רשימת אנשים כקובץ csv"
+            },
+            "geo": {
+              "title": "טירגוט גיאוגרפי",
+              "text": "- יגיע בקרוב!"
+            }
+          },
+          "audience-list": {
+            "title": "קהל יעד",
+            "add": "הוספת קהל יעד",
+            "rules": {
+              "only_ascii": "אנא הזינו רק אותיות באנגלית"
+            },
+            "placeholder": {
+              "name": "הקלידו את שם קהל היעד",
+              "size": "הקלידו את גודל קהל היעד"
+            },
+            "edit": {
+              "save": "עדכון",
+              "cancel": "ביטול",
+              "confirm": {
+                "title": "האם אתם בטוחים?",
+                "description": "שינוי גודל הקהל ישפיע על חישובים קיימים",
+                "ok": "לשמור",
+                "cancel": "ביטול"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

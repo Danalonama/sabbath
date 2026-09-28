@@ -1,0 +1,14 @@
+fragment CampaignBasics on Campaign {
+  id
+  orgId
+  name
+  kpi
+  baseLink
+  totalClicks
+  percentClicks
+  totalConverted
+  percentConverted
+  createdAt
+  launched
+  launchedAt
+}

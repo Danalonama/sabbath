@@ -1,0 +1,15 @@
+query getCampaignById($id: ID!) {
+  campaign(id: $id) {
+    ...CampaignBasics
+    ...CampaignTop
+    channels {
+      ...Channel
+    }
+    audiences {
+      ...Audience
+    }
+    urls {
+      ...Url
+    }
+  }
+}

@@ -1,0 +1,7 @@
+fragment PerformanceGroup on PerformanceGroup {
+  name
+  clicks
+  converted
+  percentClicks
+  percentConverted
+}

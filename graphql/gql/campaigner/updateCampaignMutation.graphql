@@ -1,0 +1,24 @@
+mutation updateCampaign(
+  $id: ID!
+  $name: String!
+  $kpi: KPI!
+  $channelIds: [ID]
+  $audiences: [AudienceInput]
+  $baseLink: String
+  $launch: Boolean
+) {
+  updateCampaign(
+    id: $id
+    input: {
+      name: $name
+      kpi: $kpi
+      channelIds: $channelIds
+      audiences: $audiences
+      baseLink: $baseLink
+      launch: $launch
+    }
+  ) {
+    id
+    launched
+  }
+}

@@ -1,0 +1,24 @@
+mutation createCampaign(
+  $name: String!
+  $kpi: KPI!
+  $channelIds: [ID]
+  $audiences: [AudienceInput]
+  $baseLink: String
+  $createdAt: DateTime!
+  $launch: Boolean
+) {
+  createCampaign(
+    input: {
+      name: $name
+      kpi: $kpi
+      channelIds: $channelIds
+      audiences: $audiences
+      baseLink: $baseLink
+      createdAt: $createdAt
+      launch: $launch
+    }
+  ) {
+    id
+    launched
+  }
+}

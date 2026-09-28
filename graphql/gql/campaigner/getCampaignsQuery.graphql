@@ -1,0 +1,42 @@
+query GetCampaigns(
+  $orderBy: CampaignOrderField
+  $orderDirection: OrderDirection
+  $first: Int
+  $after: String
+  $kpi: KPI
+  $startDate: String
+  $endDate: String
+  $searchPattern: String
+) {
+  campaignsBase(
+    orderBy: $orderBy
+    orderDirection: $orderDirection
+    first: $first
+    after: $after
+    kpi: $kpi
+    startDate: $startDate
+    endDate: $endDate
+    searchPattern: $searchPattern
+  ) {
+    items {
+      id
+      orgId
+      name
+      kpi
+      baseLink
+      createdAt
+      launched
+      launchedAt
+      channels {
+        id
+        icon
+        name
+      }
+    }
+    totalCount
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

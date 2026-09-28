@@ -1,0 +1,4 @@
+input AudienceInput {
+  name: String!
+  size: Int
+}

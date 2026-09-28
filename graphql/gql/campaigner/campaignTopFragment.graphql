@@ -1,0 +1,8 @@
+fragment CampaignTop on Campaign {
+  topChannels {
+    ...PerformanceGroup
+  }
+  topAudiences {
+    ...PerformanceGroup
+  }
+}

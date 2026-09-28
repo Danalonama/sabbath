@@ -1,0 +1,14 @@
+fragment Url on Url {
+  id
+  baseLink
+  url
+  qrCodeSvg
+  clicks
+  converted
+  channel {
+    ...Channel
+  }
+  audience {
+    ...Audience
+  }
+}

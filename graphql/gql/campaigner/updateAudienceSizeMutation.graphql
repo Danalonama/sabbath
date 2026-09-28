@@ -1,0 +1,5 @@
+mutation UpdateAudienceSize($id: ID!, $size: Int!) {
+  updateAudienceSize(audienceId: $id, size: $size) {
+    ...Audience
+  }
+}
