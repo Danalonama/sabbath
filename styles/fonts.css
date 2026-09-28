@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "OpenSans";
+  src: url("/fonts/OpenSans-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("/fonts/OpenSans-Medium.ttf");
+  font-weight: medium;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("/fonts/OpenSans-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ratzif22";
+  src: url("/fonts/Ratzif22-Regular.woff2") format("woff2"),
+    url("/fonts/Ratzif22-Regular.woff") format("woff"),
+    url("/fonts/Ratzif22-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ratzif22";
+  src: url("/fonts/Ratzif22-Medium.woff2") format("woff2"),
+    url("/fonts/Ratzif22-Medium.woff") format("woff"),
+    url("/fonts/Ratzif22-Medium.otf") format("opentype");
+  font-weight: medium;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ratzif22";
+  src: url("/fonts/Ratzif22-Bold.woff2") format("woff2"),
+    url("/fonts/Ratzif22-Bold.woff") format("woff"),
+    url("/fonts/Ratzif22-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
